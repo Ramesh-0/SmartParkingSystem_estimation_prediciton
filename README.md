@@ -21,6 +21,12 @@ The system processes live video feeds from strategically placed cameras to:
 - **Hardware Integration**: Direct ESP32/ESP8266 device communication for gate control and data transmission
 
 ---
+## Circuit Diagram
+
+<img width="1439" height="823" alt="CVparking circuit" src="https://github.com/user-attachments/assets/19c02e21-d45b-4931-8cc6-38fefacb17be" />
+
+
+
 
 ## System Architecture
 
